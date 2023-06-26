@@ -19,29 +19,24 @@ This project is a modern web application developed using ReactJS and Tailwind CS
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/project-name.git`
+1. Clone the repository: `git clone https://github.com/khatiazitanishvili/bank_modern_app.git`
 2. Navigate to the project directory: `cd project-name`
 3. Install the dependencies: `npm install`
 
 ## Usage
 
-1. Start the development server: `npm start`
-2. Open your browser and visit: `http://localhost:3000`
+1. Install the dependencies: `npm install`
+2. Start the development server: `npm run dev`
+3. Open your browser and visit the local development server URL provided in the console output.
 
-## Contributing
+Make sure you have Node.js and npm installed on your system before running the above commands. The `npm run dev` command will start the Vite development server, and the console output will display the local development server URL. It may look like `http://127.0.0.1:5174/` or a different URL depending on your host configuration.
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+Copy the URL from the console output and paste it into your browser to access your application. If you encounter any issues or have any questions, please refer to the Vite documentation or consult the project's specific setup instructions.
 
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Submit a pull request
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
 
-For any inquiries or questions, please reach out to me at [your-email@example.com](mailto:your-email@example.com).
+
+
+
