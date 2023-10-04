@@ -1,12 +1,15 @@
 # HooBank
 
-![Screenshot](./bank_modern_app/src/assets/home.png)
-
 A Responsive ReactJS Application with Tailwind CSS
 
 ## Description
 
 This project is a modern web application developed using ReactJS and Tailwind CSS. It showcases a stunning hero section, high-quality assets and gradients, business stats, reusable feature sections with call-to-action buttons, testimonials, and more! The application is designed to be fully responsive, providing a seamless and user-friendly experience across devices.
+
+**Live App:** [HooBank on Vercel](https://bank-modern-app-sepia.vercel.app/)
+
+
+![Screenshot](/src/assets/home.png)
 
 ## Features
 
