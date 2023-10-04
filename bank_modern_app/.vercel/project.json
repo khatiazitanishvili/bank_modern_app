@@ -1,8 +1,0 @@
-{
-    "projectId":"prj_xVxI0fLL21ZzdKJ6OwYSoVEWa83P",
-    "orgId":"viVtnZmlu3JYnrIgtkRvHlRx",
-    "rewrites":  [
-        {"source": "/(.*)", "destination": "/"}
-      ]
-}
-
